@@ -1,0 +1,3 @@
+- [x] Upgrade Kotlin version in `libs.versions.toml`
+- [x] Sync Gradle
+- [x] Verify build compiles successfully
